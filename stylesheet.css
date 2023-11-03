@@ -1,0 +1,20 @@
+button {
+    border-top: 5px dotted red;
+    border-bottom: 5px dotted blue;
+    border-left: 5px dotted purple;
+    border-right: 5px dotted green;
+    text-emphasis-color: yellow;
+    background-color: orange;
+    color: yellow;
+}
+
+h1 {
+    color: green;
+    background-color: grey;
+
+}
+
+h1:hover {
+    background-color: yellow;
+    color: black;
+}
